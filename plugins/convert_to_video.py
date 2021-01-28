@@ -17,6 +17,8 @@ else:
 
 # the Strings used for this "thing"
 from translation import Translation
+from pyrogram import ReplyKeyboardMarkup, InlineKeyboardMarkup, InlineKeyboardButton
+from pyrogram.errors import UserNotParticipant, UserBannedInChannel
 
 import pyrogram
 logging.getLogger("pyrogram").setLevel(logging.WARNING)
