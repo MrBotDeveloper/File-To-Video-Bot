@@ -15,9 +15,9 @@
     "remote",
     "uploader"
   ],
-  "success_url": "https://telegram.dog/URL_Upload_Robot",
+  "success_url": "https://telegram.dog/File2Video_Robot",
   "website": "https://mrbotdeveloper.github.io/File-To-Video-Bot/",
-  "repository": "https://github.com/MrBotDeveloper/forcesubtest",
+  "repository": "https://github.com/MrBotDeveloper/File-To-Video-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
